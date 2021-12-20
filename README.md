@@ -8,6 +8,8 @@ pada pertemuan 12 saya diberi soal :
 
 ![Gambar 2](png/diagramClass.png)
 
+## Flowchart
+
 Untuk Flowchart bisa di akses [Flowchart](Flowchart.pdf)
 
 ## PROGRAM
@@ -67,4 +69,5 @@ dan terakhir membuat fungsi if else untuk menjalankan method
         break
 ````
 
+## Code Program
 Untuk Code program bisa di akses [Program](Class.py)
