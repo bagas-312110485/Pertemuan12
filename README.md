@@ -8,7 +8,7 @@ pada pertemuan 12 saya diberi soal :
 
 ![Gambar 2](png/diagramClass.png)
 
-Untuk Flowchart bisa di akses [Flowchart](Flwochart.pdf)
+Untuk Flowchart bisa di akses [Flowchart](flowchart.pdf)
 
 ## PROGRAM
 
