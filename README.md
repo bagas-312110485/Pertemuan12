@@ -86,11 +86,11 @@ ini adalah output apabila memilih untuk tambah lagi
 
 ![Gambar 5](png/t.png)
 
-ini adalah output apabila memilih hapus(3)
+ini adalah output apabila memilih hapus(4)
 
 ![Gambar 6](png/4.png)
 
-ini adalah output apabila memilih lihat (4)
+ini adalah output apabila memilih lihat (3)
 
 ![Gambar 7](png/3.png)
 
