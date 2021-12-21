@@ -88,11 +88,11 @@ ini adalah output apabila memilih untuk tambah lagi
 
 ini adalah output apabila memilih hapus(3)
 
-![Gambar 6](png/3.png)
+![Gambar 6](png/4.png)
 
 ini adalah output apabila memilih lihat (4)
 
-![Gambar 7](png/4.png)
+![Gambar 7](png/3.png)
 
 ini adalah output apabila memilih else/keluar(5)
 
