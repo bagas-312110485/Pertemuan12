@@ -71,3 +71,31 @@ dan terakhir membuat fungsi if else untuk menjalankan method
 
 ## Code Program
 Untuk Code program bisa di akses [Program](Class.py)
+
+## Output
+
+ini adalah output apabila memilih tambah(1)
+
+![Gambar 3](png/1.png)
+
+ini adalah output apabila memilih ubah(2)
+
+![Gambar 4](png/2.png)
+
+ini adalah output apabila memilih untuk tambah lagi
+
+![Gambar 5](png/t.png)
+
+ini adalah output apabila memilih hapus(3)
+
+![Gambar 6](png/3.png)
+
+ini adalah output apabila memilih lihat (4)
+
+![Gambar 7](png/4.png)
+
+ini adalah output apabila memilih else/keluar(5)
+
+![Gambar 8](png/5.png)
+
+======TERIMAKASIH======
