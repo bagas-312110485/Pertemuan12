@@ -60,13 +60,13 @@ class daftarNilai():
     def keluar(self):
         print('\n=====terimakasih=====\n')
         print(21*'=')
-        print("Nama\t: Nur hidayat\nKelas\t: TI.21.C5\nNIM\t: 312110584")
+        print("Nama\t: Bagas Ari Pradana\nKelas\t: TI.21.C5\nNIM\t: 312110485")
         print(21*'=')             
                 
                                                         
 while True:
     data=daftarNilai()
-    print('\ntambah\t(1)\nubah\t(2)\nlihat\t(3)\nhapus\t(4)')                                                                                     
+    print('\ntambah\t(1)\nubah\t(2)\nlihat\t(3)\nhapus\t(4)\nkeluar\t(5)')                                                                                     
     c = input("\nsilahkan masukan pilihan : ")
     print()
     if (c=="1"):
